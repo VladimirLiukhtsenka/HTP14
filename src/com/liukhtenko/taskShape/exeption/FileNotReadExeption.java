@@ -1,4 +1,4 @@
-package shapesChapterA.exeption;
+package com.liukhtenko.taskShape.exeption;
 
 public class FileNotReadExeption extends Exception {
     public FileNotReadExeption() {

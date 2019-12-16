@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name ="OrbTest">
+    <test name="All tests">
+        <classes>
+            <class name="com.liukhtenko.taskShape.test.CreateFigureWithFactoryTest"/>
+            <class name="com.liukhtenko.taskShape.test.CreateOrbsTest"/>
+            <class name="com.liukhtenko.taskShape.test.OrbLogicTest"/>
+            <class name="com.liukhtenko.taskShape.test.OrbValidatorTest"/>
+            <class name="com.liukhtenko.taskShape.test.dataReaderTest"/>
+            <class name="com.liukhtenko.taskShape.test.RepositoryTest"/>
+            <class name="com.liukhtenko.taskShape.test.WarehouseAndOrbObserverTest"/>
+        </classes>
+    </test>
+</suite>
